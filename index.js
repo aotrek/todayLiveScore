@@ -15,7 +15,7 @@ app.use(cors());
 dotenv.config();
 
 const score =
-  "https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/afghanistan-vs-england-13th-match-1384404/live-cricket-score";
+  "https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/australia-vs-sri-lanka-14th-match-1384405/match-preview";
 
 
 
